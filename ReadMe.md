@@ -1,4 +1,4 @@
-<h1>FUN GAME WITH GRB COLORS</h1>
+<h1>FUN GAME WITH RGB COLORS</h1>
 
 Wanna Play! Here's the link.
 
